@@ -15,12 +15,6 @@
 
 https://user-images.githubusercontent.com/85029306/185827741-040ae574-ba1d-4048-8bca-612e4febe3c9.mp4
 
-## Table of contents
-
-- [Quick start](#quick-start)
-- [Contributing](#contributing)
-- [Thanks](#thanks)
-
 ## Quick start
 
 This is a normal flutter app. You should follow the instructions in the [official documentation](https://flutter.io/docs/get-started/install).
