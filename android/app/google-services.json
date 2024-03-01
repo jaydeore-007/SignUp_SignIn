@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082412575260",
+    "project_id": "dyeus-dee73",
+    "storage_bucket": "dyeus-dee73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082412575260:android:4f25887cf4047294bb0dd9",
+        "android_client_info": {
+          "package_name": "com.example.deyus_internship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082412575260-plvq33lremm0rf459tlogrmuu30e7am2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZ1rXIgd-5rTNhnf7MnhLqq5iu2ud538"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082412575260-plvq33lremm0rf459tlogrmuu30e7am2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
